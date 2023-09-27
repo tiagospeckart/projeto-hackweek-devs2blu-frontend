@@ -1,5 +1,27 @@
 # ProjetoHackweekDevs2bluFrontend
 
+This is the base repository for the HackWeek projects.
+
+## Tech stack
+
+- Angular
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+
+## Installation
+
+1. `npm i`
+2. `ng serve`
+
+## Acknowledgements
+
+Thanks to [Clovis Pilger Junior](https://github.com/ClovisPilgerJunior) for the project starter.
+
+---
+Below is the default Angular CLI Readme
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
 
 ## Development server
